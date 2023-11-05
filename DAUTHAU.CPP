@@ -24,6 +24,25 @@ if (tien_nhap_vao > tien_max){
 }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 fileOut << ten_max;
 cout << ten_max <<endl;
 fileIn.close();
